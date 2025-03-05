@@ -1,113 +1,80 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Transform Your Digital Presence</title>
-  
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <style>
-    /* styles.css */
-body {
-  font-family: 'Poppins', sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f4f4f9;
-  color: #333;
-}
+<div align="center">
+  <img src="assets/profile-picture.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;">
+  <h1>Hi, I'm Muhammad Usman 👋</h1>
+  <h3>WordPress Developer & Digital Marketing Expert</h3>
+  <p>Transforming your traditional businesses into stunning websites, grow your social media organically and results-driven campaigns.</p>
+</div>
 
-header {
-  background: linear-gradient(135deg, #6a11cb, #2575fc);
-  color: white;
-  padding: 60px 20px;
-  text-align: center;
-}
+---
 
-header h1 {
-  font-size: 2.5rem;
-  margin: 0;
-}
+## 🚀 Elevate Your Online Presence  
 
-header h2 {
-  font-size: 1.8rem;
-  margin: 10px 0;
-}
+I think you’re not getting enough sales or growing your business as expected. You’re in the right place! Here, you’ll find all your solutions under one roof. 🚀
 
-header p {
-  font-size: 1.2rem;
-  margin: 20px 0;
-}
+With 5+ years of experience, I specialize in delivering results-driven solutions tailored to your business needs. Whether it’s boosting your brand’s visibility or building a stunning, high-performing website, I’ve got you covered. 💼
 
-.services {
-  padding: 40px 20px;
-  text-align: center;
-}
+---
 
-.services h2 {
-  font-size: 2rem;
-  margin-bottom: 20px;
-}
+## ✅ What I Offer  
 
-.services ul {
-  list-style: none;
-  padding: 0;
-}
+### **Social Media Marketing Expert**  
+- Create engaging, high-converting ad campaigns (organic & paid).  
+- Design eye-catching visuals (Canva: reels, posts, thumbnails).  
+- Manage accounts, drive sales, and increase brand awareness.  
+- Expertise in Google PPC campaigns for maximum ROI.  
 
-.services li {
-  background: white;
-  margin: 10px 0;
-  padding: 15px;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  font-size: 1.1rem;
-}
+### **WordPress Developer**  
+- Build **responsive, SEO-friendly websites** that load fast and look amazing.  
+- Custom WordPress themes, plugins, Wp Bakery, Elementor Pro and WooCommerce solutions.  
+- Optimized for mobile and desktop with seamless functionality.  
 
-footer {
-  background: #333;
-  color: white;
-  text-align: center;
-  padding: 20px;
-  margin-top: 40px;
-}
+---
 
-footer p {
-  margin: 0;
-  font-size: 0.9rem;
-}
+## 🌟 Why Choose Me?  
+- **Client-focused approach**: Solutions tailored to your unique goals.  
+- **Proven expertise**: Delivered 50+ successful projects globally.  
+- **Cutting-edge tools**: Proficient in Elementor, Meta Ads, Canva, Google Ads, and more.  
+- **Timely delivery**: Commitment to deadlines without compromising quality.  
 
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 20px;
-}
-  </style>
-</head>
-<body>
-  <header>
-    <div class="container">
-      <h1>Transform Your Digital Presence</h1>
-      <h2>With Advanced Strategies</h2>
-      <p><strong>3 YEAR +</strong><br>of Transport & Workload</p>
-    </div>
-  </header>
+---
 
-  <section class="services">
-    <div class="container">
-      <h2>My Perfect Services</h2>
-      <ul>
-        <li>Recent Projects</li>
-        <li>Recent News & Blogs</li>
-        <li>User Experience</li>
-        <li>Data Labels</li>
-        <li>Other Details</li>
-      </ul>
-    </div>
-  </section>
 
-  <footer>
-    <div class="container">
-      <p>© 2024 Your Name. All rights reserved.</p>
-    </div>
-  </footer>
-</body>
-</html>
+## 🛠️ Skills  
+<div align="center">
+  <img src="https://img.shields.io/badge/Social_Media_Marketing-FF6F61?style=for-the-badge&logo=instagram&logoColor=white" alt="Social Media Marketing">
+  <img src="https://img.shields.io/badge/Local_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Local SEO">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Content_Calendaring-FF6F61?style=for-the-badge&logo=notion&logoColor=white" alt="Content Calendaring">
+  <img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads">
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white" alt="Google Ads">
+  <img src="https://img.shields.io/badge/Elementor_Pro-9146FF?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor Pro">
+</div>
+
+---
+
+## 📂 Featured Projects  
+
+### 1. [Talent Loom](https://talentloom.co.uk/)  
+
+- **Description**: specialize in providing top-tier staff augmentation services to businesses worldwide. From skilled professionals in IT, marketing, and lead generation to tailored workforce solutions.
+- **Tech Stack**: WordPress, Elementor.  
+
+### 2. [Napa Valley Tours](https://www.napavalleytours.us/)  
+
+- **Description**: Enhance Your Experience with Our Limousine Service for Luxury Wine Tasting Tours in Napa Valley.
+- **Tech Stack**: WordPress  
+
+---
+
+## 📫 Let’s Connect  
+- **Email**: [usmansiddiquemughal7@gmail.com](mailto:usmansiddiquemughal7@gmail.com)  
+- **Upwork**: [Muhammad Usman](https://www.upwork.com/freelancers/~015cec2923238d05eb)  
+- **LinkedIn**: [Muhammad Usman](https://www.linkedin.com/in/heremuhammadusman/)  
+- **Website**: [www.muhammadusman.infy.uk](https://www.muhammadusman.infy.uk)  
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+</div>
