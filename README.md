@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-picture.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;">
+  <img src="assets/profile-picture.png" alt="Profile Picture" width="200" style="border-radius: 50%;">
   <h1>Hi, I'm Muhammad Usman 👋</h1>
   <h3>WordPress Developer & Digital Marketing Expert</h3>
   <p>Transforming your traditional businesses into stunning websites, grow your social media organically and results-driven campaigns.</p>
